@@ -1,5 +1,3 @@
-markdown
-Copiar código
 <h1 align="center">Ransomware em Python</h1>
 Este repositório contém um Ransomware em Python que criptografa arquivos. Projeto desenvolvido no curso de Cyber Security da DIO.
 
